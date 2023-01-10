@@ -39,7 +39,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![OUTPUT](./ORM.png)
+![OUTPUT](./images/ORM.png)
 
 ## RESULT
 program is executed successfully
